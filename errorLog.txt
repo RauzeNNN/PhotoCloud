@@ -1,0 +1,17 @@
+[24/05/2023 00:22:14][ERROR]User:RauzeNNN tried to upload a photo for a new post but file error occured.
+[24/05/2023 00:22:33][ERROR]SignUp page File Error
+[24/05/2023 00:25:45][ERROR]SignUp page File Error
+[24/05/2023 20:16:40][ERROR]Log in error.
+[24/05/2023 23:19:55][ERROR]SignUp page File Error
+[25/05/2023 11:30:38][ERROR]Log in error.
+[26/05/2023 10:30:29][ERROR]SignUp page File Error
+[26/05/2023 10:30:45][ERROR]User:RauzeNNN tried to upload a photo for a new post but file error occured.
+[26/05/2023 10:49:48][ERROR]User:RauzeNNN tried to upload a photo for a new post but file error occured.
+[26/05/2023 10:55:54][ERROR]SignUp page Invalid password
+[26/05/2023 10:55:54][ERROR]SignUp page Invalid name
+[26/05/2023 10:55:54][ERROR]SignUp page Invalid surname
+[26/05/2023 10:55:54][ERROR]SignUp page Invalid age
+[26/05/2023 10:56:05][ERROR]SignUp page File Error
+[26/05/2023 10:57:33][ERROR]Log in error.
+[01/02/2024 16:16:52][ERROR]Log in error.
+[01/02/2024 16:16:52][ERROR]Log in error.
